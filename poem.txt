@@ -1,4 +1,5 @@
 A short collection of random poems assembled by Lawrence. 
+The reason I created this project was to familiarise myself with GitHub.
 
 Poem 1:
 
